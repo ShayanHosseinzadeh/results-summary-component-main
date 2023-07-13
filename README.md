@@ -28,9 +28,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![](./design/desktop.png)
+![](./design/Desktop.png)
 Index page
-![](./design/mobile.png)
+![](./design/Mobile.png)
 Index page in mobile
 
 ### Links
